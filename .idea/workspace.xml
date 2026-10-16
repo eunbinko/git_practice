@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="09286c6d-5f2f-4302-aa83-be1e59945346" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,14 +10,100 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feat/test01" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eunbinko"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/eunbinko/git_practice.git",
+    "accountId": "ee66503c-78bd-42b1-8692-31c9cbbaebae"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3917831357190185" />
+      <entry key="MS500" value="3.106560647464556" />
+      <entry key="S2" value="4.851718249267423" />
+      <entry key="S5" value="5.484180610161813" />
+      <entry key="S10" value="5.731342551168021" />
+      <entry key="S30" value="5.907918857769973" />
+      <entry key="S60" value="5.953634151434454" />
+      <entry key="M2" value="5.977160440038552" />
+      <entry key="M5" value="6.186224664594558" />
+      <entry key="M10" value="7.877938171743637" />
+      <entry key="M15" value="10.104662334857831" />
+      <entry key="M30" value="15.18416201479436" />
+      <entry key="H1" value="20.131862547268533" />
+      <entry key="H2" value="23.844029992967783" />
+      <entry key="H4" value="26.19545227989471" />
+      <entry key="D1" value="28.4959141885337" />
+      <entry key="W1" value="28.92701102968576" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.338197791209827" />
+      <entry key="MS500" value="3.0828391637410766" />
+      <entry key="S2" value="4.843043061709347" />
+      <entry key="S5" value="5.480329206234885" />
+      <entry key="S10" value="5.729343013762128" />
+      <entry key="S30" value="5.9072348266455545" />
+      <entry key="S60" value="5.953289872148806" />
+      <entry key="M2" value="5.976987714050879" />
+      <entry key="M5" value="6.186152383804149" />
+      <entry key="M10" value="7.877888161212753" />
+      <entry key="M15" value="10.104616605214103" />
+      <entry key="M30" value="15.184124919919507" />
+      <entry key="H1" value="20.131837080487784" />
+      <entry key="H2" value="23.844014679795755" />
+      <entry key="H4" value="26.195443810508035" />
+      <entry key="D1" value="28.495912644971856" />
+      <entry key="W1" value="28.927010805651403" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3KlBCAmfYS6EpAiySVSt1R1Tqab" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,13 +112,26 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "은빈-261016작업",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -46,11 +148,82 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1792122145964</updated>
-      <workItem from="1792122146973" duration="1000" />
+      <workItem from="1792122146973" duration="2785000" />
     </task>
+    <task id="LOCAL-00001" summary="yaho">
+      <option name="closed" value="true" />
+      <created>1792122270235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792122270235</updated>
+    </task>
+    <task id="LOCAL-00002" summary="yaho">
+      <option name="closed" value="true" />
+      <created>1792122331324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1792122331324</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ya14">
+      <option name="closed" value="true" />
+      <created>1792122358056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1792122358056</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ya143">
+      <option name="closed" value="true" />
+      <created>1792127628543</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1792127628543</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5기능까지 만듦">
+      <option name="closed" value="true" />
+      <created>1792127675025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792127675025</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feat/test02" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yaho" />
+    <MESSAGE value="ya14" />
+    <MESSAGE value="ya143" />
+    <MESSAGE value="5기능까지 만듦" />
+    <option name="LAST_COMMIT_MESSAGE" value="5기능까지 만듦" />
   </component>
 </project>
